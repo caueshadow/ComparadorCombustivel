@@ -3,7 +3,6 @@
 
     class Program
     {
-        //alteração
         static void Main(string[] args)
         {
             double resuletanol = 0;
